@@ -1,11 +1,20 @@
 body {
 	background-image: url("../imagens/fundo.png");
 	margin: 5%;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+
+h1, h2{
+	color:limegreen;
 	font-family: "Times New Roman", Times, serif;
 }
-h1, h2{
-	color:#7FFF00;
-}
+
 img{
 	border:3px solid green;
+}
+
+table, td, th{
+	text-align: center;
+	border:2px solid silver;
+	border-collapse: collapse;
 }

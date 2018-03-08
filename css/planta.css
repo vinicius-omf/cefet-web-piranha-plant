@@ -1,0 +1,11 @@
+body {
+	background-image: url("../imagens/fundo.png");
+	margin: 5%;
+	font-family: "Times New Roman", Times, serif;
+}
+h1, h2{
+	color:#7FFF00;
+}
+img{
+	border:3px solid green;
+}
